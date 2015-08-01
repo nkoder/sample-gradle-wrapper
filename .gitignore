@@ -1,3 +1,6 @@
 # IntelliJ IDEA configuration
 .idea/
 *.iml
+
+# Gradle build files
+.gradle/
